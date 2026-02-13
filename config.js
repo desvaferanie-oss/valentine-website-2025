@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm so lucky to have you in my life 💗",
-        message: "Now come get your gift, a lot of kiss 💋💋",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Now come get your gift, a lot of kiss",
+        emojis: "💋💋💋💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
